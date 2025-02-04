@@ -2,6 +2,8 @@
 
 A simple and fun Memory Game built using **HTML, CSS, and JavaScript**. The game challenges players to find matching pairs of emoji cards.
 
+let's play a game:https://memory-game-vpande.netlify.app/
+
 ## 🎮 How to Play
 1. Click on a card to reveal the emoji.
 2. Click on another card to find its match.
